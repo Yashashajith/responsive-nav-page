@@ -1,0 +1,247 @@
+*{
+  background-color: white;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navhed{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 0px 2px 0px;
+  background-color: black;
+  font-size: 4px;
+}
+
+.smnavul{
+  display: inline-flex;
+  align-items: right;
+  list-style: none;
+  margin-top: 10px;
+  margin-right: 300px;
+  background-color: black;
+}
+
+.smnavli{
+  font-family: cursive;
+  color: white;
+  text-decoration: none;
+  padding-left: 10px;
+  background-color: black;
+  color: white;
+  font-family: monospace, fantasy;
+  text-align: center;
+  font-size: 10px;
+
+}
+
+.navh4{
+  background-color: Black;
+  color: white;
+  font-family: monospace, fantasy;
+  text-align: center;
+  font-size: 10px;
+  font-style: italic;
+  margin-left: 300px;
+  margin-top: 10px;
+}
+
+.smnava{
+  text-decoration: none;
+  font-size: 10px;
+
+}
+
+.smnava:hover{
+  font-style: italic;
+  font-size: 20px;
+}
+
+#smnavic1{
+  font-size: 15px;
+  background-color: black;
+  color: white;
+  font-weight: 100;
+}
+
+#smnavic1:hover{color: grey;font-size: 18px; text-shadow: 13px 13px 10px #F0FFF0;}
+
+.navbar{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 0px 20px 0px;
+  background-color: #f5f5f5;
+  scroll-behavior: none;
+  border-style: solid;
+  border-radius: 10px;
+  box-shadow: 10px 10px 8px #888888;
+}
+
+.navul{
+  display: inline-flex;
+  align-items: right;
+  list-style: none;
+  margin-top: 10px;
+  margin-right: 150px;
+  background-color: #f5f5f5;
+}
+
+.navli{
+  font-family: cursive;
+  color: black;
+  text-decoration: none;
+  padding-left: 10px;
+  background-color: #f5f5f5;
+  color: Black;
+  font-family: monospace, fantasy;
+  font-size: 10px;
+
+}
+
+.navname{
+  background-color: #f5f5f5;
+  color: #000000;
+  font-family:serif;
+  text-align: right;
+  font-style: normal;
+  margin-top: 20px;
+  margin-left:  -550px;
+  font-stretch: expanded;
+}
+
+.navname:hover{font-size: 26px;}
+.nava{
+  text-decoration: none;
+  font-size: 20px;
+  padding: 10px;
+  background-color: #f5f5f5;
+  color: Black;
+}
+
+
+.navli:hover{
+  font-style: italic;
+  font-size: 25px;
+  text-shadow: 10px 10px 8px #888888;
+}
+
+.navlogo{
+  height: 73px;
+  width: 200px;
+  margin-left: 275px;
+  margin-top: -15px;
+  margin-bottom: -20px;
+  padding-bottom: 1px;
+  background-color: #f5f5f5;
+}
+.fotr{
+  padding:50px;
+  background-color: black;
+  margin-bottom: 0px;
+  box-sizing: border-box;
+}
+
+.bdydiv {
+  padding: 50px;
+}
+
+.fotrimg{
+  height: 80px;
+  width: 110px;
+  margin-left: 200px;
+  padding-bottom: 10px;
+  background-color: black;
+  border-radius: 10px;
+}
+
+.ftrbdy{
+  background-color: black;
+}
+
+.ftrhd{
+  background-color: black;
+  color: white;
+  margin-left: 330px;
+  margin-top: -50px;
+  font-size: 20px;
+}
+
+.ftradd{
+  background-color: black;
+  color: white;
+  margin-left: 330px;
+  font-size: 13px;
+  font-family:serif;
+}
+
+.ftrlnk{
+  background-color: black;
+  color: white;
+  margin-left: 600px;
+  margin-top: -163px;
+  font-size: 18px;
+}
+
+.ftrul{
+  background-color: black;
+  margin-left: 630px;
+  font-size: 18px;
+}
+
+.ftrli{
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+
+.ftrli:hover{
+  background-color: black;
+  color: white;
+  text-decoration: underline;
+  text-shadow: grey;
+}
+
+.ftrlnk1{
+  background-color: black;
+  color: white;
+  margin-left: 900px;
+  margin-top: -140px;
+  font-size: 18px;
+}
+
+.ftrsm{
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+
+.ftrsm:hover{
+  background-color: black;
+  color: white;
+  text-decoration: underline;
+  text-shadow: grey;
+}
+
+.frmiul{
+  display: inline-flex;
+  text-decoration: none;
+}
+
+.frmili{
+  padding-left:10px;
+  text-decoration: none;
+}
+
+.ytlnk{
+  padding: 10px;
+  height: 200px;
+  weight: 300px;
+  margin-right: 30px;
+  box-shadow: 10px 10px 8px #888888;
+}
+
+.ytlnk:hover{
+  box-shadow: 15px 15px 12px #888888;
+}

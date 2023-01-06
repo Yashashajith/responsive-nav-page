@@ -1,0 +1,114 @@
+img {
+  max-width: 100%;
+  height: 100;
+ 
+}
+
+.navimg{
+  width: 190px;
+  height: 75px;
+  margin-left: 200px;
+  position: relative;
+}
+
+.navbar {
+  background-color: #F2F2F2;
+  border-radius: 25px;
+  border-bottom: 10px solid  #C2C1BE;
+  height: 110px;
+}
+
+.navbar-nav{
+  margin-left: 500px;
+  text-align: center;
+  width: auto;
+}
+
+.nav-item{
+  margin-right: 30px;
+  text-align: left;
+}
+
+.nav-link{
+  color: black;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.nav-link:hover{
+  background-color: #DAE7F0;
+  border-radius: 10px;
+  border: 1px solid black;
+  box-shadow: 3px 3px #91918E;
+}
+
+.active, .nav-item:hover,.nav-link:hover{
+  background-color: #C2C1BE;
+  border-radius: 10px;
+  border: 1px solid black;
+  box-shadow: 3px 3px #DAE7F0;
+}
+
+.welcmcontainer{
+  position: relative;
+}
+
+.wlecomh2{
+  font-size: 20px;
+  text-align: justify;
+  font-family: "Helvetica", serif;
+}
+
+.display-4{
+  font-family: "Georgia", serif;
+  font-size: 50px;
+}
+
+.big-banner{background-image: url("C:/Udemy/Website/Images/welcomebackground.jpg"); !important}
+
+.jmbcontnt{
+  padding-top: 120px;
+  padding-bottom: 120px;
+  padding-left: 70px;
+
+}
+
+.btn{
+  border-radius: 10px;
+  background-color: #69778D;
+  color: black;
+  font-weight: bold;
+  border: 2px solid blue;
+}
+
+.btn:hover{
+  box-shadow: 1px 1px #69778D;
+  border: 1px solid black;
+}
+
+.marqbg{
+  background-image: url("C:/Udemy/Website/Images/marqueeimg.jpg");
+  padding-bottom: 245px;
+  width: 800px;
+  margin-left: -200px;
+}
+
+.marqtf{
+  margin-left: 270px;
+  margin-top: 70px;
+  width: 450px;
+  height: 330px;
+  text-align: left;
+
+}
+.aspirepart{font-family: "Georgia", serif;}
+
+.aspirpadd{
+  background-color: #C2C1BE;
+  margin-left: 50px;
+  margin-right: 0px;
+  padding: 200px;
+  text-align: center;
+  width: 750px;
+  font-family: "Times New Roman", sans-serif;
+}
